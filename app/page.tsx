@@ -1,6 +1,5 @@
-import { Button } from "@/components/ui/button";
-import React from "react";
+import Home from "./home";
 
 export default function page() {
-  return <div>Hello world!</div>;
+  return <Home/>;
 }
