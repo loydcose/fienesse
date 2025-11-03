@@ -22,7 +22,7 @@ export default function PriceListSection() {
         {/* Contact Description */}
         <div className="flex flex-col gap-8">
           <div>
-            <h2 className="mb-2 font-bold text-2xl md:text-3xl">Contact</h2>
+            <h2 className="mb-2 font-medium font-serif text-2xl md:text-3xl">Contact</h2>
             <p>
               Heb je een vraag over een behandeling, een product of een prijs?
               Laat het ons dan weten. Vul dit contactformulier zo uitgebreid en
@@ -33,7 +33,7 @@ export default function PriceListSection() {
           </div>
 
           <div>
-            <h3 className="mb-2 font-bold text-xl md:text-2xl">
+            <h3 className="mb-2 font-medium font-serif text-xl md:text-2xl">
               Bel of mail ons
             </h3>
             <p>o471 33 73 90</p>
@@ -41,7 +41,7 @@ export default function PriceListSection() {
           </div>
 
           <div>
-            <h3 className="mb-2 font-bold text-xl md:text-2xl">
+            <h3 className="mb-2 font-medium font-serif text-xl md:text-2xl">
               Hier vind je ons
             </h3>
             <p>Klaverstraat 10</p>
@@ -52,7 +52,7 @@ export default function PriceListSection() {
 
         {/* Contact */}
         <div className="bg-white p-8 rounded-lg shrink-0 w-full max-w-xl">
-          <h3 className="mb-4 font-bold text-xl md:text-2xl">
+          <h3 className="mb-4 font-medium font-serif text-xl md:text-2xl">
             Contactformulier
           </h3>
 

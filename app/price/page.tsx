@@ -16,10 +16,13 @@ export default function PriceListSection() {
 
       {/* Header Content BELOW image */}
       <div className="text-center px-4 py-12">
-        <h2 className="text-4xl font-bold text-gray-900 mb-4">Prijslijst</h2>
+        <h2 className="text-4xl text-gray-900 mb-4 font-medium font-serif">
+          Prijslijst
+        </h2>
         <p className="max-w-2xl mx-auto text-gray-700 mb-6">
-          Hieronder vind je de prijslijst van al onze behandelingen die jouw huid weer
-          gaan laten stralen. Heb je een vraag? Bel of mail ons dan even!
+          Hieronder vind je de prijslijst van al onze behandelingen die jouw
+          huid weer gaan laten stralen. Heb je een vraag? Bel of mail ons dan
+          even!
         </p>
         <div className="flex gap-4 justify-center">
           <button className="bg-[#8b8778] text-white px-6 py-2 rounded-full">
@@ -35,7 +38,7 @@ export default function PriceListSection() {
       <div className="max-w-3xl mx-auto px-6 pb-16 space-y-12">
         {/* Category */}
         <div>
-          <h3 className="text-xl font-semibold mb-3">Skinpen</h3>
+          <h3 className="text-xl mb-3 font-medium font-serif">Skinpen</h3>
           <hr className="border-t border-gray-300 mb-4" />
           <div className="flex justify-between mb-2">
             <p>1 SkinPen behandeling</p>
@@ -52,7 +55,9 @@ export default function PriceListSection() {
         </div>
 
         <div>
-          <h3 className="text-xl font-semibold mb-3">Radiofrequentie</h3>
+          <h3 className="text-xl font-medium font-serif mb-3">
+            Radiofrequentie
+          </h3>
           <hr className="border-t border-gray-300 mb-4" />
           <div className="flex justify-between mb-2">
             <p>Gelaat</p>
@@ -65,7 +70,7 @@ export default function PriceListSection() {
         </div>
 
         <div>
-          <h3 className="text-xl font-semibold mb-3">Venus Viva</h3>
+          <h3 className="text-xl font-medium font-serif mb-3">Venus Viva</h3>
           <hr className="border-t border-gray-300 mb-4" />
           <div className="flex justify-between">
             <p>1 Venus Viva behandeling</p>
@@ -74,7 +79,7 @@ export default function PriceListSection() {
         </div>
 
         <div>
-          <h3 className="text-xl font-semibold mb-3">Spray tanning</h3>
+          <h3 className="text-xl font-medium font-serif mb-3">Spray tanning</h3>
           <hr className="border-t border-gray-300 mb-4" />
           <div className="flex justify-between mb-2">
             <p>Volledig lichaam</p>
@@ -95,7 +100,7 @@ export default function PriceListSection() {
         </div>
 
         <div>
-          <h3 className="text-xl font-semibold mb-3">
+          <h3 className="text-xl font-medium font-serif mb-3">
             Peels: ZO Skin Health – AlumierMD
           </h3>
           <hr className="border-t border-gray-300 mb-4" />

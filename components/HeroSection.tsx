@@ -19,7 +19,7 @@ export function HeroSection() {
                   <div className="w-0 h-0 border-l-[3px] border-l-transparent border-r-[3px] border-r-transparent border-t-[3px] border-t-black" />
                 </div>
               </div>
-              <h1 className="text-[#202020] font-playfair text-3xl md:text-5xl italic">
+              <h1 className="text-[#202020] font-medium font-serif text-3xl md:text-5xl italic">
                 The Glow Sanctuary
               </h1>
             </div>

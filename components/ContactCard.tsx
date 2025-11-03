@@ -10,7 +10,7 @@ export function ContactCard() {
               className="w-[121px] h-[181px] object-cover rounded-[10px] flex-shrink-0"
             />
             <div className="flex flex-col justify-center space-y-3">
-              <h3 className="font-playfair text-2xl leading-tight">
+              <h3 className="font-medium font-serif text-2xl leading-tight">
                 Vragen over de
                 <br />
                 huidanalyse?

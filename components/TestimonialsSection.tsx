@@ -54,7 +54,7 @@ export function TestimonialsSection() {
   return (
     <section className="bg-white py-12 md:py-16">
       <div className="max-w-[1200px] mx-auto px-4">
-        <h2 className="text-center font-playfair text-[28px] leading-tight mb-8">
+        <h2 className="text-center font-medium font-serif text-[28px] leading-tight mb-8">
           Real Experiences,
           <br />
           Real Results

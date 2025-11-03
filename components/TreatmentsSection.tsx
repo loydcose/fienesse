@@ -67,7 +67,7 @@ export function TreatmentsSection() {
           </div>
         </div>
 
-        <h2 className="text-center font-playfair text-[28px] leading-tight mb-4 px-4">
+        <h2 className="text-center font-medium font-serif text-[28px] leading-tight mb-4 px-4">
           Onze Behandelingen
         </h2>
         <p className="text-center font-raleway text-sm leading-[18px] max-w-[355px] mx-auto mb-8 px-4">

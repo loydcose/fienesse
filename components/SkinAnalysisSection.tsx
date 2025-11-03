@@ -10,13 +10,13 @@ export function SkinAnalysisSection() {
           />
 
           <div className="space-y-1">
-            <h2 className="font-playfair text-[26px] leading-normal">
+            <h2 className="font-medium font-serif text-[26px] leading-normal">
               Een goed behandelplan
             </h2>
-            <h3 className="font-playfair text-[26px] font-semibold leading-normal">
+            <h3 className="font-medium font-serif text-[26px] font-semibold leading-normal">
               start met een GRATIS
             </h3>
-            <h3 className="font-playfair text-[26px] font-semibold leading-normal">
+            <h3 className="font-medium font-serif text-[26px] font-semibold leading-normal">
               huidanalyse
             </h3>
           </div>
